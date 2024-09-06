@@ -8,7 +8,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import re
 
-fn = r'C:\Users\Doris Santiago\Documents\Experiments\Ex-vivo\EphysAnalysis\2024-08-22\B2_077_CellPy1_SqPulseRangelow_Crimson010_0000.abf'
+fn = r'your file path.abf'
 # print(abf.headerText) 
 abf = pyabf.ABF(fn)
 fs = abf.sampleRate
