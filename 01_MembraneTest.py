@@ -1,5 +1,6 @@
 """ Created on Fri Sep 09 14:59:34 2024 @author: Doris Santiago"""
-#https://support.moleculardevices.com/s/article/Membrane-Test-Algorithms created as pyabf.tools.memtest wasnt functioning as needed 
+#https://support.moleculardevices.com/s/article/Membrane-Test-Algorithms .
+#This code was generated as pyabf.tools.memtest wasnt functioning as needed 
 
 import pyabf
 import numpy as np
